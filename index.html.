@@ -1,1 +1,14 @@
-this exact code
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mastermind AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>  <header class="navbar">
+    <div class="logo">Mastermind AI</div>
+  </header>  <section class="hero">
+    <h1>Master your music with AI precision</h1>
+    <p>Professional online mastering for artists, producers, and engineers.</p>
+  </section></body>
+</html>
